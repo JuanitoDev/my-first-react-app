@@ -7,7 +7,7 @@ function App() {
     <img src={logo} className="App-logo" alt="logo" />
     <h1>REACT</h1>
     <p>
-    This is a really cool library and I hope to have fun with it 🙆🏻‍♂️
+    Welcome Codaisseurers 🐎!
   </p>
     </div>
   );
